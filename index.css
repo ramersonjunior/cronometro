@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 240px;
+    background-color: blue;
+    border: solid;
+    border-color: black;
+    border-radius: 6px;
+}
+
+button{
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start{
+    background-color: green;
+}
+
+.stop{
+    background-color: grey;
+}
+
+.reset{
+    background-color: red;
+}
